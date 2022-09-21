@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "603494281521",
+    "project_id": "party-intstudios",
+    "storage_bucket": "party-intstudios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603494281521:android:56184bb9f1afa56344c010",
+        "android_client_info": {
+          "package_name": "com.interestelar.party"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603494281521-sn2554b5ji42i3nt3inm37lobmaljbu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.interestelar.party",
+            "certificate_hash": "70d35f4923a441ea05cef8d890df2a6b874e77e1"
+          }
+        },
+        {
+          "client_id": "603494281521-b286k46ep45col1vkmkbfdheu1c2l0iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJ33mTU0IfN3bM-fAvMtHXz97nOGpveE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603494281521-b286k46ep45col1vkmkbfdheu1c2l0iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
